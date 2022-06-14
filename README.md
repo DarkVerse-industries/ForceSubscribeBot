@@ -1,4 +1,4 @@
-# Force Subscribing Bot [@ForceSubscribingBot](https://t.me/ForceSubscribingBot)
+# Force Subscribing Bot [@ForceSubscriber_Robot](https://t.me/ForceSubscriber_Robot)
 
 > A star ⭐ from you means a lot to us!
 
