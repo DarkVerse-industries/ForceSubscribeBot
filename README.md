@@ -23,7 +23,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/ForceSubscribeBot
+   git clone https://github.com/DarkVerse-industries/ForceSubscribeBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
