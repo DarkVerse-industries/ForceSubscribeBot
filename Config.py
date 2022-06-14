@@ -22,7 +22,7 @@ else:
     BOT_TOKEN = ""
     DATABASE_URL = ""
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = "StarkBots"
+    MUST_JOIN = "DarkVerseIndustries"
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN[1:]
 
