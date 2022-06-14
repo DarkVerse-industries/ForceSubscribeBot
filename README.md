@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ForceSubscribeBot"><img src="https://telegra.ph/file/317f37f33c0055bfb34d6.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/DarkVerse-industries/ForceSubscribeBot"><img src="https://telegra.ph/file/73e8f3527b7397844290b.jpg" width="2000"></a></p>
 
 Telegram bot to force users to subscribe a particular chat.
 
@@ -12,7 +12,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ForceSubscribeBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkVerse-industries/ForceSubscribeBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -67,8 +67,6 @@ Telegram bot to force users to subscribe a particular chat.
 ## Support
 
 Channel :- [@StarkBots](https://t.me/StarkBots)
-
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
 
 ## :)
 
