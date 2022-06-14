@@ -66,7 +66,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@DarkVerse](https://t.me/DarkVerseIndustries)
 
 ## :)
 
